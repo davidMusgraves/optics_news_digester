@@ -1,0 +1,11 @@
+feedparser~=6.0.11
+newspaper3k
+pandas
+scikit-learn
+spacy
+pyyaml~=6.0.2
+schedule~=1.2.2
+requests~=2.32.4
+sqlalchemy
+spacy
+streamlit

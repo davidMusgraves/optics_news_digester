@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.log
+*.pyc
+*.pt
+*.bin
+*.pkl
+*.spacy
+data/
+*.sqlite
+*.db
